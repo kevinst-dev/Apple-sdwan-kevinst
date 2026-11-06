@@ -1,0 +1,4 @@
+/* SD-WAN Dashboard per iPhone/iPad: sola consultazione. (c) 2026 Kevin Staiola. */
+[data-act="new"],[data-act="ok"],[data-act="edit"],[data-act="del"],[data-act="undo"],.okl,#n-dl{display:none!important}
+body{padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
+.m-sola{margin:0 0 12px;padding:8px 12px;border-radius:10px;font-size:12px;background:color-mix(in srgb,var(--ac) 9%,var(--sf));border:1px solid color-mix(in srgb,var(--ac) 25%,var(--bd));color:var(--tx)}
